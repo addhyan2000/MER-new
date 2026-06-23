@@ -1,0 +1,2 @@
+Dataset,Subject_ID,Video_ID,Onset_Frame,Apex_Frame,Offset_Frame,Raw_Emotion,Unified_Emotion,Action_Units,Expression_Type,Sequence_Length,FPS,Frames_Directory,Frames_Exist,OF_Processed
+CASME_II,1,clip_1,1,15,30,happiness,Positive,AU12,micro-expression,30,200,E:\Rcognition\MER_InitialProject\Processed_Data\Raw_Videos_Magnified\CASME2\sub01\clip_1.avi,True,False
